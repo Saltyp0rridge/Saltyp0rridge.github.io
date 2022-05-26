@@ -823,7 +823,6 @@ U2FsdGVkX19CUnU9vY40mWLnolQr/+FsusvBv8REJ+bd5lTjNat/R2jebH6WC+C8z7AbhHZMzWsS0HHn
 <li>以下内容部分截取自我滴实验报告，代码等敏感部分注释掉啦抱歉，大家适当注意查重问题，不建议直接复制以下内容到自己的报告当中去， <mark class="hl-label red">后果自负</mark></li>
 </ul>
 </div>
-<p><img src="/img/connect4/c4.gif" alt=""></p>
 <h1>Intro</h1>
 <div class="note blue no-icon flat"><p><mark class="hl-label blue">四子棋（Connect4)</mark> 是一种双人策略游戏，在一个m列n行的棋盘上进行。每位棋手有一种颜色，在一列中连续投下自己颜色的棋子，棋子会落到该列中最低的空格中。第一个将自己颜色的四颗棋子排列成<strong>连续的四个棋子</strong>的棋手获胜，如果棋盘被填满而没有决出胜负，则为平局。<br>
 四子棋是经典的博弈游戏，由于状态空间较小、实现策略丰富等特点成为对抗搜索当中的热门问题。</p>
